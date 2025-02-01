@@ -49,4 +49,5 @@ Summary
 This project streamlines the process of adding custom blocks to a Minecraft mod by automating resource file generation and Java code updates. Whether you use the provided mod_creator.exe or compile it from source, you’ll save time and reduce manual errors in mod development. Enjoy building your mod with ease!
 
 Acknowledgments
+
 Special thanks to the original MDK-1.21-ModDevGradle-main project provided by the NeoForge team. Their MDK, available at https://github.com/NeoForgeMDKs/MDK-1.21-ModDevGradle, has been instrumental in the development of this toolchain and mod integration workflow.
