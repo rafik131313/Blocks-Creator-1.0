@@ -46,6 +46,7 @@ Compile Your Mod:
 Open the MDK project in IntelliJ IDEA and build the project via Gradle. The result will be a mod JAR that includes your newly added blocks in MDK-1.21-ModDevGradle-main\build\libs.
 
 Summary
+
 This project streamlines the process of adding custom blocks to a Minecraft mod by automating resource file generation and Java code updates. Whether you use the provided mod_creator.exe or compile it from source, you’ll save time and reduce manual errors in mod development. Enjoy building your mod with ease!
 
 Acknowledgments
